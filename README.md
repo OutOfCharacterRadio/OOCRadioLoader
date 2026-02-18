@@ -1,5 +1,5 @@
 # Out of Character Radio – In-Game Radio & Loading Screen
-![Out of Character Radio Promotional Image](https://drive.google.com/u/0/drive-viewer/AKGpihb2V7wEMXIQAOmOFSJnUgqjzzAzz_FJgxUcnf-7xvg8jRlT0yVe8aDSZC9_OVgqyFYaaBmoZ6-KlLm55KXrF5Ui-p10mYagSA=s1600-rw-v1)
+![Out of Character Radio Promotional Image](https://i.imgur.com/XzZ6j3P.jpeg)
 ---
 
 ## Quick start
