@@ -1,5 +1,5 @@
 # Out of Character Radio – In-Game Radio & Loading Screen
-
+![Out of Character Radio Promotional Image](./assets/promotionalimage.png)
 ---
 
 ## Quick start
